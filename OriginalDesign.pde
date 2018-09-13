@@ -5,7 +5,6 @@ void setup (){
     background(13,21,79);
 }
 void draw(){
-  System.out.println((int)(Math.random()*7));
   white();
   retina();
   pupils();
